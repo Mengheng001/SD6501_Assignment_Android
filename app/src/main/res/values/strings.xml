@@ -1,0 +1,56 @@
+<resources>
+    <string name="registrationActivity_labelName">registration</string>
+    <string name="registrationActivity_text1">Please enter your first name: </string>
+    <string name="registrationActivity_text2">Please enter your last name: </string>
+    <string name="registrationActivity_text3">Please enter your employee ID: </string>
+    <string name="registrationActivity_text4">Please enter your password: </string>
+    <string name="registrationActivity_text5">Please confirm your password: </string>
+    <string name="registrationActivity_text6">Confirm failed, please enter same password</string>
+    <string name="registrationActivity_text7">Registration successful!</string>
+
+    <string name="loginActivity_labelName">Login</string>
+    <string name="loginActivity_text1">Please enter your employee ID </string>
+    <string name="loginActivity_text2">Please enter your password </string>
+    <string name="loginActivity_text3">Wrong ID or password!</string>
+
+    <string name="homeActivity_labelName">Home</string>
+    <string name="homeActivity_text">Total Payment Amount</string>
+
+    <string name="paymentActivity_labelName">Payment</string>
+
+    <string name="taxActivity_labelName">Tax</string>
+    <string name="taxActivity_text">Your Total Tax Amount</string>
+
+    <string name="settingsActivity_labelName">Settings</string>
+
+    <string name="paymentDetailActivity_labelName">Payment Detail</string>
+
+    <string name="uploadActivity_labelName">Upload</string>
+    <string name="uploadActivity_text1">Please enter an uploading e-mail address: </string>
+    <string name="uploadActivity_text2">Your payment detail has been sent! </string>
+
+    <string name="changePasswordActivity_labelName">Change Password</string>
+    <string name="changePasswordActivity_text1">Please enter current password: </string>
+    <string name="changePasswordActivity_text2">Please enter new password: </string>
+    <string name="changePasswordActivity_text3">Please confirm new password: </string>
+    <string name="changePasswordActivity_text4">Your password has been successfully changed!</string>
+    <string name="changePasswordActivity_text5">Confirm failed, please enter same password</string>
+
+    <string name="feedbackActivity_labelName">Feedback</string>
+    <string name="feedbackActivity_text1">Please write your feedback here: </string>
+    <string name="feedbackActivity_text2">Your feedback has been sent to our customer service, we will be responding soon!</string>
+
+    <string name="btn_Home">Home</string>
+    <string name="btn_Payment">Payment</string>
+    <string name="btn_Tax">Tax</string>
+    <string name="btn_Settings">Settings</string>
+    <string name="btn_upload">Upload</string>
+    <string name="btn_changePassword">Change Password</string>
+    <string name="btn_feedback">Feed Back</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_Logout">Logout</string>
+
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <TextView
+        android:id="@+id/paymentID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/PAYMENTID"
+        android:layout_marginLeft="0dp"
+        android:textColor="@color/black"
+        android:textSize="17dp"/>
+
+    <TextView
+        android:id="@+id/amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/AMOUNT"
+        android:layout_marginLeft="130dp"
+        android:textColor="@color/black"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/DATE"
+        android:layout_marginLeft="240dp"
+        android:textColor="@color/black"
+        android:textSize="17dp"/>
+
+    <TextView
+        android:id="@+id/tax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TAX"
+        android:layout_marginLeft="350dp"
+        android:textColor="@color/black"
+        android:textSize="17dp" />
+
+</RelativeLayout>
